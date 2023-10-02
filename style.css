@@ -1,3 +1,7 @@
 heard {
   background: #BBBBBB;
 }
+
+nav li {
+  display: inline;
+}
