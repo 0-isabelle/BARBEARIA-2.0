@@ -17,3 +17,14 @@ nav li {
    top : 0;
    right: 0;
  }
+
+
+
+nav li {
+display: inline;
+margin: 0 0 0 15px
+   }
+
+  .caixa{
+    width: 940px;
+  }
