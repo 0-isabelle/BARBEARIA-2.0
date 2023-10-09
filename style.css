@@ -8,11 +8,11 @@ nav li {
 
   nav a {
     text-transform: uppercase;
-  }
+  color: #000000;
  font-weight: bold;
    fot-size: 22px;
-
- nav{
+ tex-decoration: none;
+}
     position:absolute;
    top : 0;
    right: 0;
